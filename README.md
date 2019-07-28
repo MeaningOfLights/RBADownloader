@@ -1,7 +1,7 @@
 # RBA Downloader
 RBA Downloader is a Winodws application that downloads Reserve Bank of Australia spreadsheets.
 
-The program can be run manually or set to run automatically on a Scheduled Task. A quick start ReadMe is provided to set up the program.
+The program can be run manually or set to run automatically on a Scheduled Task and instructions provided to set up the program.
 
 Ref: https://www.rba.gov.au/statistics/tables/frequency-statistical-releases.html
 
